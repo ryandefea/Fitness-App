@@ -1,3 +1,9 @@
+# Project Details
+this project is being created by using a tutorial at this url https://www.youtube.com/watch?v=KBpoBc98BwM&t=8312s
+It is currently unfinished and I am working a long to get a better understanding of how modern React applications can work. I am learning a lot on passing props between components and hooks. This project also uses two different APIs. the youtube API is currently not functioning and the fitness API only works if I have the code entered in the fetchData file. it does not work in the env file.  
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
